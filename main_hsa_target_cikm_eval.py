@@ -1,6 +1,6 @@
 # @Time   : 2021/1/28
 # @Author : Tianyu Zhao
-# @Email  : tyzhao@bupt.edu.cn
+# @Email  : tyzhao
 
 import argparse
 

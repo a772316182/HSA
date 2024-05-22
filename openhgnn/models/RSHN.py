@@ -1,7 +1,7 @@
 # The implementation of ICDM 2019 paper "Relation Structure-Aware Heterogeneous Graph Neural Network" RSHN.
 # @Time   : 2021/3/1
 # @Author : Tianyu Zhao
-# @Email  : tyzhao@bupt.edu.cn
+# @Email  : tyzhao
 import dgl
 import torch as th
 import torch.nn as nn
